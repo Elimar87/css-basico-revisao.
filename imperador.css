@@ -1,0 +1,28 @@
+.emperor {
+    font-family: cursive;
+}
+
+.reign {
+    font-family: monospace;
+}
+.empero{
+    color: blue;
+    background-color: mediumturquoise;
+}
+.emper{
+    color: rgb(255, 0, 0);
+    background-color: mediumorchid;
+}
+.empe{
+    color: salmon;
+    background-color: greenyellow;
+}
+h1{
+    text-align: right;
+}
+table{
+    text-align: center;
+}
+.reign{
+    font-weight: bold;
+}
